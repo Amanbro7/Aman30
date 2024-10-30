@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Good morning L section students
 Good morning W section students
+=======
+Good morning C section students
+Good morning D section students
+>>>>>>> v2
